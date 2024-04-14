@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Jenkins, Ansible, Terraform, Kubernetes**
 
-- 👨‍💻 All of my projects are available at [portfolio.vercel.app](portfolio.vercel.app)
-
 - 💬 Ask me about **AWS Services, Linux , Python , Docker**
 
 - 📫 How to reach me **jadonlsamuel51@gmail.com**
