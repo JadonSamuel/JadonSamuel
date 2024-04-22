@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jadonlsamuel51@gmail.com**
 
-- 👨‍💻 All of my projects are available at  **https://portfoliojd.vercel.app**
+- 👨‍💻 All of my projects are available at  **  https://master.d3k2kn4jbj8tna.amplifyapp.com/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1c57GSCTwDOAz_GZbpF6SHOZP8a0G3g21/view?usp=drive_link](https://drive.google.com/file/d/1c57GSCTwDOAz_GZbpF6SHOZP8a0G3g21/view?usp=drive_link)
 
