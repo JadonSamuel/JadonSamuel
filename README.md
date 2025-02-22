@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **jadonlsamuel51@gmail.com**
 
-- 👨‍💻 All of my projects are available at    https://master.d3k2kn4jbj8tna.amplifyapp.com/ 
-
 - 📄 Know about my experiences 
 https://drive.google.com/file/d/1iIWgnqA19VQ04pTWKy9Yt0XxoRuBGBop/view?usp=drivesdk
 <h3 align="left">Connect with me:</h3>
